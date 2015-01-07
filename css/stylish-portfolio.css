@@ -162,6 +162,9 @@ hr.small {
     -o-background-size: cover;
 }
 
+#company { font-family: "bubbleboy";
+    font-size: 160;
+}
 /* About */
 
 .about {
